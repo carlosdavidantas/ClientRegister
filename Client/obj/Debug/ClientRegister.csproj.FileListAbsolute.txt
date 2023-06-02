@@ -1,0 +1,13 @@
+C:\Projetos\Client\Client\bin\Debug\Client.exe.config
+C:\Projetos\Client\Client\bin\Debug\Client.exe
+C:\Projetos\Client\Client\bin\Debug\Client.pdb
+C:\Projetos\Client\Client\obj\Debug\ClientRegister.csproj.AssemblyReference.cache
+C:\Projetos\Client\Client\obj\Debug\ClientRegister.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\Client\Client\obj\Debug\Client.Forms.ClientRegisterForm.resources
+C:\Projetos\Client\Client\obj\Debug\Client.InicialForm.resources
+C:\Projetos\Client\Client\obj\Debug\Client.Forms.SearchClientForm.resources
+C:\Projetos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Projetos\Client\Client\obj\Debug\ClientRegister.csproj.GenerateResource.cache
+C:\Projetos\Client\Client\obj\Debug\ClientRegister.csproj.CoreCompileInputs.cache
+C:\Projetos\Client\Client\obj\Debug\Client.exe
+C:\Projetos\Client\Client\obj\Debug\Client.pdb
